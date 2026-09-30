@@ -1,5 +1,6 @@
 # cursor-settings
-,,,
+```
+
 {
     "window.autoDetectColorScheme": false,
     "workbench.colorTheme": "Cursor Dark",
@@ -52,4 +53,5 @@
     "editor.codeLensFontFamily": "SF Mono",
     "editor.fontWeight": "normal",
 }
-,,,
+
+```
